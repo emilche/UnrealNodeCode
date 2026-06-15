@@ -229,3 +229,50 @@ Questions about these Terms:
 - Email: **emilchristenson@gmail.com**
 - Project: **Unreal NodeCode**
 
+# Refund Policy
+
+**Last updated: June 15, 2026**
+
+Unreal NodeCode purchases may be processed by Apple App Store, Google Play, or Paddle. Refund requests must be submitted through the payment provider that processed the purchase.
+
+## Apple App Store Purchases
+
+Apple manages all refunds for App Store purchases.
+
+Request a refund at [reportaproblem.apple.com](https://reportaproblem.apple.com/).
+
+## Google Play Purchases
+
+Google manages all refunds for Google Play purchases.
+
+Request a refund through your [Google Play order history](https://play.google.com/store/account/orderhistory).
+
+## Paddle Purchases
+
+Paddle is the merchant of record for purchases completed through Paddle.
+
+To request a refund, visit [paddle.net](https://paddle.net/) or contact Paddle using the details included in your purchase confirmation email.
+
+Paddle determines refund eligibility according to its refund policy, applicable consumer laws, and the circumstances of the request.
+
+Consumers in certain jurisdictions may have statutory cancellation or withdrawal rights. Nothing in this policy limits those rights.
+
+## Technical Problems
+
+Before requesting a refund because purchased features are unavailable:
+
+- Confirm you are using the same account associated with the purchase.
+- Use **Restore Purchases** for Apple or Google purchases.
+- Contact support for help restoring Paddle purchases.
+
+## Duplicate or Unauthorized Purchases
+
+Immediately contact the payment provider that processed the purchase if you believe it was duplicated or unauthorized.
+
+## Contact
+
+For technical or purchase-access assistance, contact:
+
+**Email:** emilchristenson@gmail.com
+
+We cannot directly guarantee or issue refunds for purchases processed by Apple App Store, Google Play, or Paddle. Refund decisions are handled by the applicable payment provider.
