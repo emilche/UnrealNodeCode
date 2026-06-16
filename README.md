@@ -1,7 +1,7 @@
 # Privacy Policy
 
-**Effective Date:** February 26, 2026  
-**Last Updated:** February 26, 2026
+**Effective Date:** June 16, 2026  
+**Last Updated:** June 16, 2026
 
 This Privacy Policy explains how Emil Christenson ("we", "our", "us") handles information when you use the Unreal NodeCode app.
 
@@ -98,8 +98,8 @@ For privacy questions:
 
 # Terms of Service
 
-**Effective Date:** February 26, 2026  
-**Last Updated:** February 26, 2026
+**Effective Date:** June 16, 2026  
+**Last Updated:** June 16, 2026
 
 These Terms of Service ("Terms") govern your access to and use of Unreal NodeCode ("Service", "app") published by Emil Christenson ("we", "our", "us").  
 By using the Service, you agree to these Terms.
@@ -130,7 +130,7 @@ You must promptly notify us of unauthorized access.
 
 ## 4. GitHub and Third-Party Integrations
 
-When you connect GitHub:
+When you connect with any git provider:
 - You authorize access according to the permissions you grant
 - You are responsible for repository/branch choices and resulting commits
 - You represent you have rights to modify synced repositories
