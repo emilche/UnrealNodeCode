@@ -3,7 +3,7 @@
 **Effective Date:** February 26, 2026  
 **Last Updated:** February 26, 2026
 
-This Privacy Policy explains how Unreal NodeCode ("we", "our", "us") handles information when you use the Unreal NodeCode app.
+This Privacy Policy explains how Emil Christenson ("we", "our", "us") handles information when you use the Unreal NodeCode app.
 
 ## 1. Local-First Data Handling
 
@@ -101,7 +101,7 @@ For privacy questions:
 **Effective Date:** February 26, 2026  
 **Last Updated:** February 26, 2026
 
-These Terms of Service ("Terms") govern your access to and use of Unreal NodeCode ("Service", "app", "we", "our", "us").  
+These Terms of Service ("Terms") govern your access to and use of Unreal NodeCode ("Service", "app") published by Emil Christenson ("we", "our", "us").  
 By using the Service, you agree to these Terms.
 
 ## 1. Eligibility and Acceptance
