@@ -98,8 +98,8 @@ For privacy questions:
 
 # Terms of Service
 
-**Effective Date:** June 16, 2026  
-**Last Updated:** June 16, 2026
+**Effective Date:** June 24, 2026  
+**Last Updated:** June 24, 2026
 
 These Terms of Service ("Terms") govern your access to and use of Unreal NodeCode ("Service", "app") published by Emil Christenson ("we", "our", "us").  
 By using the Service, you agree to these Terms.
@@ -256,6 +256,12 @@ To request a refund, visit [paddle.net](https://paddle.net/) or contact Paddle u
 Paddle determines refund eligibility according to its refund policy, applicable consumer laws, and the circumstances of the request.
 
 Consumers in certain jurisdictions may have statutory cancellation or withdrawal rights. Nothing in this policy limits those rights.
+
+## Optional Support Contributions
+
+Optional contributions made through Ko-fi or a mobile in-app support purchase do not unlock features or digital content. Mobile support purchases are consumable and cannot be restored.
+
+Refund requests for optional contributions are handled by the payment provider that processed the contribution, subject to its policies and applicable consumer law.
 
 ## Technical Problems
 
